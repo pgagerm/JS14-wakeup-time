@@ -1,0 +1,12 @@
+.container {
+    text-align: center;
+    margin: 50px;
+}
+
+.outerShell {
+	text-align: center;
+	height: 800px;
+	width:600px;
+    position: relative;
+    background-color: black
+}
